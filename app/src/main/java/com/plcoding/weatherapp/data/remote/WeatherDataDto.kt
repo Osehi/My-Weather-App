@@ -1,4 +1,4 @@
-package com.plcoding.weatherapp.domain.weather
+package com.plcoding.weatherapp.data.remote
 
 import com.squareup.moshi.Json
 
